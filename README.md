@@ -1,9 +1,10 @@
+              big fat wip
+
 <img width="1200" height="92" alt="image" src="https://github.com/user-attachments/assets/c004756b-6227-4fc1-bc4d-6ebf7a2867e7" />
 <img width="540" height="698" alt="1000012905" src="https://github.com/user-attachments/assets/78cd7b77-3147-4ca1-962f-ff765bea2484" />
 <img width="1100" height="92" alt="image" src="https://github.com/user-attachments/assets/38a5bba4-f42f-45e5-bdfd-b2976e8f17e6" />
-
-<img width="99" height="53" alt="image" src="https://github.com/user-attachments/assets/4e12c12d-024b-4e80-9b6c-09063878a300" /> <img width="99" height="53" alt="image" src="https://github.com/user-attachments/assets/9619db6a-b882-4f0e-b201-b2a6a730cfc3" /> <img width="99" height="53" alt="image" src="https://github.com/user-attachments/assets/a9aecadf-de34-4990-a50f-4917d5b4b23b" />
-
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fc004756b-6227-4fc1-bc4d-6ebf7a2867e7"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fc004756b-6227-4fc1-bc4d-6ebf7a2867e7&label=Bunnies&labelColor=%23ffb783&countColor=%23c9e9bc&style=plastic" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sunshiney&pause=1000&color=C7ED8C&width=435&lines=I+believe+in+good+things...;Only+come+to+those+who+wait." alt="Typing SVG" /></a>
 
 
 
