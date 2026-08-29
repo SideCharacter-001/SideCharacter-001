@@ -1,4 +1,4 @@
-              big fat wip
+ big fat wip, Cosmo gif is the way to my ata
 
 <img width="1200" height="92" alt="image" src="https://github.com/user-attachments/assets/c004756b-6227-4fc1-bc4d-6ebf7a2867e7" />
 <img width="540" height="698" alt="1000012905" src="https://github.com/user-attachments/assets/78cd7b77-3147-4ca1-962f-ff765bea2484" />
