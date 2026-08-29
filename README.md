@@ -7,7 +7,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sunshiney&pause=1000&color=C7ED8C&width=435&lines=I+believe+in+good+things...;Only+come+to+those+who+wait." alt="Typing SVG" /></a>
 <a href="https://cosmoscookbook.atabook.org">
   <img src="https://github.com/user-attachments/assets/83fb673c-3414-4712-87e2-b0bc6b7f7f7b" alt="1000012917">
-</a>
+</a> <img width="99" height="53" alt="image" src="https://github.com/user-attachments/assets/0483c7f4-b97b-4770-9ba4-8077ac4099d3" /> <img width="99" height="53" alt="image" src="https://github.com/user-attachments/assets/b6add04b-cc56-452d-aec8-edb2a2907000" />
+
+
 
 
 
